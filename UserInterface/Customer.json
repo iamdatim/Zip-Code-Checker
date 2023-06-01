@@ -1,0 +1,19 @@
+[
+  {
+    "DateOfBirth": "0001-01-01T00:00:00",
+    "Salary": 0,
+    "Department": null,
+    "Position": null,
+    "HireDate": "0001-01-01T00:00:00",
+    "EmployeeContactDetails": [],
+    "ID": "0e78c044-c1b1-417e-89ae-e02010f45853",
+    "FirstName": "qqq",
+    "LastName": "qqq",
+    "MiddleName": "qqq",
+    "Username": "qqq@gmail.com",
+    "Email": "qqq",
+    "Gender": "",
+    "IsActive": false,
+    "Password": "Passwod129"
+  }
+]
